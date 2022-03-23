@@ -1,2 +1,2 @@
 text week1
-barch week1 mà thôi
+barch: week1 vs main
